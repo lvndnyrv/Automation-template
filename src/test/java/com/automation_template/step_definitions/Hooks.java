@@ -1,8 +1,8 @@
-package com.bookit.step_definitions;
+package com.automation_template.step_definitions;
 
 
-import com.bookit.utilities.DBUtils;
-import com.bookit.utilities.Driver;
+import com.automation_template.utilities.DBUtils;
+import com.automation_template.utilities.Driver;
 import cucumber.api.Scenario;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;

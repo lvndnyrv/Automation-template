@@ -1,4 +1,4 @@
-package com.bookit.utilities;
+package com.automation_template.utilities;
 
 import java.sql.*;
 import java.util.ArrayList;
